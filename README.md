@@ -46,5 +46,5 @@ Atualmente estudando:
 
 Construir uma base sólida em desenvolvimento web e conquistar minha primeira oportunidade como desenvolvedor.
 <p align="center">
-  <img src="imagens/sobre-mim.jfif" width="800"/>
+  <img src="sobre-mim/imagens/sobre-mim.jfif" width="800"/>
 </p>
