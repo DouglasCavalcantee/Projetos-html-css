@@ -18,5 +18,5 @@ Projeto desenvolvido com HTML5 e CSS3 com foco em layout visual e navegação en
 
 Praticar organização de layout, estilização com CSS e criação de interfaces interativas.
 <p align="center">
-  <img src="galeria/imagens/galeria.jfif" width="800"/>
+  <img src="galeria-vídeos/imagens/galeria.jfif" width="800"/>
 </p>
