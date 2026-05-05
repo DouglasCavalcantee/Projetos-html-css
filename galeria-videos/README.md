@@ -1,6 +1,8 @@
 # 🎬 Galeria de Vídeos
 
-Projeto desenvolvido com HTML5 e CSS3 com foco em layout visual e navegação entre páginas.
+Projeto desenvolvido com **HTML5** e **CSS3**, com foco em layout visual e navegação entre páginas.
+
+---
 
 ## 🔥 Funcionalidades
 
@@ -9,14 +11,25 @@ Projeto desenvolvido com HTML5 e CSS3 com foco em layout visual e navegação en
 - Navegação entre páginas
 - Layout organizado e responsivo
 
+---
+
 ## 🛠 Tecnologias utilizadas
 
 - HTML5
-- CSS3 (Flexbox e efeitos visuais)
+- CSS3
+- Flexbox
+- Efeitos visuais
+
+---
 
 ## 📌 Objetivo
 
 Praticar organização de layout, estilização com CSS e criação de interfaces interativas.
+
+---
+
+## 🖼️ Demonstração do projeto
+
 <p align="center">
-  <img src="galeria-vídeos/imagens/galeria.jfif" width="800"/>
+  <img src="galeria-videos/imagens/galeria.jfif" width="800" alt="Print da galeria de vídeos">
 </p>
