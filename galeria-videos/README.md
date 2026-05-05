@@ -31,5 +31,5 @@ Praticar organização de layout, estilização com CSS e criação de interface
 ## 🖼️ Demonstração do projeto
 
 <p align="center">
-  <img src="galeria-videos/imagens/galeria.jfif" width="800" alt="Print da galeria de vídeos">
+  <img src="site.jfif/galeria-videos" width="800" alt="Print da galeria de vídeos">
 </p>
